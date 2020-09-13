@@ -7,7 +7,7 @@ I am currently interested in open positions as a Python developer, machine learn
 
 Projects I'm currently working on:
 
-- Automatization of the customs clearence process with graph databases, Named Entity Recongition (NER), and word embedding techniques like Fasttext, TF Universal Sentence Encoder, and Bert.
+- Automatization of the customs clearance process with graph databases, Named Entity Recognition (NER), and word embedding techniques like Fasttext, TF Universal Sentence Encoder, and Bert.
 
 You can reach me via [Linkedin](https://de.linkedin.com/in/paul-opuchlich-484a85136). Stay save!
 
