@@ -1,15 +1,18 @@
 ### Hi there 👋
 
-Hello, my name is Paul and I am a Data Scientist with a master's degree in Cognitive Systems from the University of Potsdam. The program is specialized in machine learning and deep learning techniques in the field of natural language processing. As a student, you are not limited to these areas and so I was able to successfully complete my master thesis in Computer Vision (Visual Question Answering). 
+Hello, my name is Paul and I am a Fullstack developer with a background in Machine Learning. I have a strong interest in bringing intelligent models to life, as I have seen firsthand that many great approaches are never used in a productive environment.
 
-My main experience is in Python, but I also have all the activities necessary to use the ML models (Docker, FastAPI, React, Flask). In addition, I am highly motivated to learn about data stream and integration modules (Spark, Kafka).
-I am currently interested in open positions as a Python developer, machine learning engineer, and data scientist.
+I have a degree in Cognitive Systems (NLP) and have applied my theoretical knowledge to real-world projects while working as a student in a Deep Learning Team at SAP. My main focus is on finding ways to make Machine Learning models more useful and practical for clients.
 
-Projects I'm currently working on:
+I am proficient in various programming languages, including Golang, python, javascript, and typescript, and I am comfortable working in environments like Docker and Kubernetes. I am also familiar with a range of AWS tools, including Lambda, Quicksight, Athena, Glue, Sagemaker, S3, and VPC.
 
-- Automatization of the customs clearance process with graph databases, Named Entity Recognition (NER), and word embedding techniques like Fasttext, TF Universal Sentence Encoder, and Bert.
+I place a high value on clean code, design patterns, and working effectively with legacy code, and am a proponent of Test-Driven Development (TDD). I am experienced in working with Agile, Scrum, and Kanban methodologies.
 
-You can reach me via [Linkedin](https://de.linkedin.com/in/paul-opuchlich-484a85136). Stay save!
+I am currently working as the link between data engineering and data science teams and enjoy discussing, defining, implementing, testing and rolling out solutions that let Machine Learning models scale and be useful to clients.
+
+I am passionate about my work and am always looking for new ways to improve and innovate. If you're interested in working with someone who is dedicated to bringing intelligent models to life and making Machine Learning more practical and useful for clients, I would love to chat.
+
+You can reach me via [Linkedin](https://de.linkedin.com/in/paul-opuchlich-484a85136).
 
 
 
